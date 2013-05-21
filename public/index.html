@@ -1,0 +1,26 @@
+<html>
+<head>
+  <title>Web Root</title>
+  <script src='/build/signature-mark.js'></script>
+  <style type="text/css">
+    canvas {
+      border: 1px solid red;
+    }
+  </style>
+</head>
+<body>
+  <canvas id="big"></canvas>
+  <canvas id="small"></canvas>
+
+  <script type="text/javascript">
+    var big_canvas = document.getElementById("big");
+    big_canvas.width  = 900;
+    big_canvas.height = 500;
+
+    SignatureMark(big_canvas);
+
+    var small_canvas = document.getElementById("small");
+    SignatureMark(small_canvas);
+  </script>
+</body>
+</html>
