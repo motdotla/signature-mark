@@ -6,6 +6,8 @@ Draw on a canvas with a smooth signature.
 SignatureMark(document.getElementById("some-canvas"));
 ```
 
+![](https://rawgithub.com/signatureio/signature-mark/master/screenshot.png)
+
 ## Usage
 
 ```html
