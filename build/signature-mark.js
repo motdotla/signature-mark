@@ -1,4 +1,4 @@
-/*! signature-mark.js - 0.0.1 - 2014-02-25 - scottmotte */
+/*! signature-mark.js - 0.0.1 - 2014-10-12 - scottmotte */
 (function(exports){
   var SignatureMark = function(canvas) {
     if(!(this instanceof SignatureMark)){

@@ -6,7 +6,7 @@ Draw on a canvas with a smooth signature.
 SignatureMark(document.getElementById("some-canvas"));
 ```
 
-![](https://rawgithub.com/signatureio/signature-mark/master/screenshot.png)
+<img src="https://raw.githubusercontent.com/motdotla/signature-mark/master/signature-mark.gif" alt="signature-mark" />
 
 ## Usage
 
@@ -31,4 +31,4 @@ npm install
 grunt
 ``` 
 
-Optionally, you can visit <http://localhost:3000> to test out your changes.
+Visit <http://localhost:3000> to test out your changes.
