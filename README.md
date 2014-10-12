@@ -1,6 +1,6 @@
 # signature-mark
 
-Draw on a canvas with a smooth signature.
+Draw on a canvas with a smooth signature. Try the <a href="http://codepen.io/motdotla/pen/tqLBo">demo</a>.
 
 ```javascript
 SignatureMark(document.getElementById("some-canvas"));
